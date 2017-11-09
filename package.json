@@ -1,7 +1,7 @@
 {
-  "name": "global-logging",
+  "name": "lapos-logger",
   "version": "1.0.0",
-  "description": "A globally accessible logging script",
+  "description": "Minimalistic logger with global helpers for quick (read: lazy) logging",
   "main": "index.js",
   "author": "Michael Welling <michael@mewelling.com> (https://mewelling.com)",
   "license": "Apache-2.0"
