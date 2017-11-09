@@ -4,5 +4,9 @@
   "description": "Minimalistic logger with global helpers for quick (read: lazy) logging",
   "main": "index.js",
   "author": "Michael Welling <michael@mewelling.com> (https://mewelling.com)",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mewelling/lapos-logger"
+  }
 }
