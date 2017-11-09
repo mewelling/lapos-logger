@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "A globally accessible logging script",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "Michael Welling <michael@mewelling.com> (https://mewelling.com)",
+  "license": "Apache-2.0"
 }
